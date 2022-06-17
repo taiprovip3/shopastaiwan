@@ -1,0 +1,21 @@
+#one-acc{
+    position: relative;
+}
+#one-acc-id{
+    position: absolute;
+    right: 0;
+}
+.need-width{
+    width: 49%;
+}
+#acc-bought{
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#close-acc-bought:hover{
+    cursor: pointer;
+    color: red;
+}

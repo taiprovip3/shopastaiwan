@@ -1,0 +1,12 @@
+#upload-form input{
+    border: none;
+    outline: none;
+    padding: 6px;
+    width: 50%;
+    border-radius: 3px;
+}
+#upload-detail textarea{
+    border: none;
+    outline: none;
+    width: 50%;
+}

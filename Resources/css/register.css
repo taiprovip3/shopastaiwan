@@ -1,0 +1,16 @@
+#registerForm{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);	
+    background: white;
+    color: black;
+    font-family: Florence, cursive;
+}
+#btn-register{
+    border: none;
+    outline: none;
+}
+#wrong-un,#wrong-pw{
+    display: none;
+}
